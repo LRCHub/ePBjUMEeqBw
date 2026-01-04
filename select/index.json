@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ねむるまち",
+  "base_artist": "くじら",
+  "createdAt": "2026-01-04T09:05:35.690133Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ねむるまち",
+      "artist": "くじら",
+      "has_synced": false,
+      "path": "select/pl_01_ねむるまち_くじら.txt"
+    }
+  ]
+}
